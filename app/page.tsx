@@ -86,10 +86,10 @@ export default function Home() {
             <div className="w-full xl:h-svh flex flex-col items-center px-6 bg-[#eaeaea]">
                 <div className="flex flex-col py-20 gap-6 w-full h-full max-w-[1792px] justify-around items-center">
                     <div className="color-text-1">
-                        <h1 className="text-8xl lg:text-9xl font-bold text-center">
+                        <h1 className="text-8xl lg:text-8xl font-bold text-center">
                             FreeTacMan
                         </h1>
-                        <h1 className="text-5xl lg:text-6xl font-bold text-center">
+                        <h1 className="text-3xl lg:text-6xl font-bold text-center">
                             Robot-free Visuo-Tactile Data Collection System<br></br>for Contact-rich Manipulation
                         </h1>
                     </div>
@@ -101,8 +101,8 @@ export default function Home() {
                             Good things take time... and so does loading this page! It might take a few seconds. Thanks for your patience!
                         </span>   
                     </div>
-                    <div className="flex justify-center items-center flex-col gap-6 max-w-[1280px]">
-                        <video preload="none" autoPlay loop muted playsInline className="w-full object-fit max-w-[1280px]">
+                    <div className="flex justify-center items-center flex-col gap-6 max-w-[1024px]">
+                        <video preload="none" autoPlay loop muted playsInline className="w-full object-fit max-w-[1024px]">
                             <source src="/landing/FreeTacMan_teaser_gray.mp4"/>
                         </video>
                         <span className="text-xl italic text-gray-400 text-left w-full">
