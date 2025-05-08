@@ -166,7 +166,7 @@ export default function Home() {
                                 <h2 className="text-5xl">
                                     01
                                 </h2>
-                                <p className="text-base">
+                                <p className="text-lg">
                                     Portable, High-resolution, Low-cost<br></br>Visuo-Tactile Hardware Sensor
                                 </p>
                             </TabsTrigger>
@@ -176,7 +176,7 @@ export default function Home() {
                                 <h2 className="text-5xl">
                                     02
                                 </h2>
-                                <p className="text-base">
+                                <p className="text-lg">
                                     In-situ, Robot-free, Real-time Tactile<br></br>Data-collection System
                                 </p>
                             </TabsTrigger>
@@ -186,7 +186,7 @@ export default function Home() {
                                 <h2 className="text-5xl">
                                     03
                                 </h2>
-                                <p className="text-base">
+                                <p className="text-lg">
                                 Visuo-Tactile Policy Learning <br></br> Tactile Pretraining
                                 </p>
                             </TabsTrigger>
