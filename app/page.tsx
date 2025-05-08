@@ -98,7 +98,7 @@ export default function Home() {
                             Anonymous Submission
                         </span>  
                         <span className="text-xl text-center italic text-gray-400">
-                            Good things take time... and so does loading this page! It might take a few seconds. Thanks for your patience!
+                            Good things take time... and so does loading this page! Thanks for your patience! Best viewed in Chrome on a desktop.
                         </span>   
                     </div>
                     <div className="flex justify-center items-center flex-col gap-6 max-w-[1024px]">
@@ -166,7 +166,7 @@ export default function Home() {
                                 <h2 className="text-5xl">
                                     01
                                 </h2>
-                                <p className="text-sm">
+                                <p className="text-base">
                                     Portable, High-resolution, Low-cost<br></br>Visuo-Tactile Hardware Sensor
                                 </p>
                             </TabsTrigger>
@@ -176,7 +176,7 @@ export default function Home() {
                                 <h2 className="text-5xl">
                                     02
                                 </h2>
-                                <p className="text-sm">
+                                <p className="text-base">
                                     In-situ, Robot-free, Real-time Tactile<br></br>Data-collection System
                                 </p>
                             </TabsTrigger>
@@ -186,7 +186,7 @@ export default function Home() {
                                 <h2 className="text-5xl">
                                     03
                                 </h2>
-                                <p className="text-sm">
+                                <p className="text-base">
                                 Visuo-Tactile Policy Learning <br></br> Tactile Pretraining
                                 </p>
                             </TabsTrigger>
